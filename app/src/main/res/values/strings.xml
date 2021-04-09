@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pista1">Ingrese el Primer Número</string>
+    <string name="pista2">Ingrese el Segundo Número</string>
+    <string name="boton">Sumar</string>
+    <string name="resultado">Resultado</string>
+</resources>
